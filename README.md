@@ -10,7 +10,7 @@ Em desenvolvimento
 - MySQL
 
 ## Time de Desenvolvedores
-- [Luiza Oliveira Alves Ferreira]
+- Luiza Oliveira Alves Ferreira
 
 
 ## Objetivo do Software
